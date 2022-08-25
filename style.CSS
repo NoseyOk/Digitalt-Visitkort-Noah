@@ -1,16 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
-
-:root{
-    --base-color: #ff9d00;
-    --accent-color: #a16100;
-
-    --base-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
-    --accent-font: 'Quicksand', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+body{
+    background-color: #faedcd;
 }
-
 *{
     margin: 0;
-    padding: 0;
+    padding: 0; 
 
     box-sizing: border-box;
 }
@@ -69,4 +63,7 @@ a:hover{
     flex-direction: row;
     flex-wrap: wrap;
     gap: 1em;
+}
+body{
+    background-color: var;
 }
