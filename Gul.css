@@ -1,7 +1,8 @@
 :root{
-    --base-color: #6c584c;
-    --accent-color: #45ebd5;
-    background-color: #ece2d0;
+    --base-color: #d4db00;
+    --accent-color: #f7ff08;
+    background-color:#3a2600;
+
 
     --base-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
     --accent-font: 'Dancing Script', cursive;
