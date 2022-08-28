@@ -90,7 +90,7 @@ a:hover{
 
 .gallery article:hover{
     opacity: 0.7;
-    color: #72efdd;
+    color: #baa47c;
 }
 
 .banner{
@@ -126,7 +126,7 @@ nav a{
 }
 
 .gallery :hover{
-    color:#72efdd;
+    color:#baa47c;
 }
 
 .gallery h1, h2, h3{
